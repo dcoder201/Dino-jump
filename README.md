@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Chrome Dino 3D game using React and three.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
